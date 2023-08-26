@@ -66,7 +66,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Alexxuwush/theshadow-bot.git
+git clone https://github.com/Alexxuwush/theshadow-bot.git && cd TheMystic-Bot-MD
 ```
 
 ```bash
