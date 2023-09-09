@@ -21,14 +21,14 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭* —◉
+║    ◉— *𝐓𝐇𝐄 𝐒𝐇𝐀𝐃𝐎𝐖 𝐁𝐎𝐓* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* Bruno Sobrino
-║➤ *Numero:* wa.me/5219992095479
-║➤ *Bot ofc:* wa.me/5219991402134
-║➤ *Bot ofc 2:* wa.me/5219993404349
+║➤ *Owner:* 𝐀𝐋𝐄𝐗𝐗𝐔𝐖𝐔𝐒𝐇 X 𝐁𝐒
+║➤ *Numero:* wa.me/51986093670
+║➤ *Bot ofc:* wa.me/51986093670
+║➤ *Bot ofc 2:* wa.me/+18728176633
 ║➤ *PayPal:* https://www.paypal.me/TheShadowBrokers133
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
