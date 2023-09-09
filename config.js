@@ -15,7 +15,8 @@ global.suittag = ['51986093670'];
 global.prems = ['51986093670'];
 
 global.packname = '(-_-)';
-global.author = '☯Alexxuwush >> hub☯';
+global.author = '★the shadow - 𝙱𝚘𝚝★
+  ';
 global.wm = '★the shadow - 𝙱𝚘𝚝★';
 global.titulowm = '🤖 𝚃𝙷𝙴 𝚂𝙷𝙰𝙳𝙾𝚆 𝙱𝙾𝚃 🤖';
 global.titulowm2 = `乂  ＴＨＥ ＳＨＡＤＯＷ ＢＯＴ 乂`
