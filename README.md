@@ -8,7 +8,7 @@
 
 ### `—◉ 🔗 CUENTAS OFICIALES 🔗`
 
-* https://www.atom.bio/alexxuwush_
+* https://www.atom.bio/alexxuwush_/
 
 ### `—◉ 💟 GRUPO DE SOPORTE 💟`
 
