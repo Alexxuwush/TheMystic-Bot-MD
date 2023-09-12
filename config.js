@@ -15,11 +15,11 @@ global.suittag = ['51986093670'];
 global.prems = ['51986093670'];
 
 global.packname = '(-_-)';
-global.author = '★the shadow - 𝙱𝚘𝚝★';
-global.wm = '★the shadow - 𝙱𝚘𝚝★';
-global.titulowm = '🤖 𝚃𝙷𝙴 𝚂𝙷𝙰𝙳𝙾𝚆 𝙱𝙾𝚃 🤖';
-global.titulowm2 = `乂  ＴＨＥ ＳＨＡＤＯＷ ＢＯＴ 乂`
-global.igfg = '★𝐓𝐇𝐄 𝐒𝐇𝐀𝐃𝐎𝐖 𝐁𝐎𝐓★';
+global.author = '★the unknown - 𝙱𝚘𝚝★';
+global.wm = '★the unknown - 𝙱𝚘𝚝★';
+global.titulowm = '🤖 𝚃𝙷𝙴 𝚄𝙽𝙺𝙽𝙾𝚆𝙽 - 𝙱𝙾𝚃 🤖';
+global.titulowm2 = `乂  ＴＨＥ ＵＮＫＮＯＷＮ - ＢＯＴ 乂`
+global.igfg = '★𝐓𝐇𝐄 𝐔𝐍𝐊𝐍𝐎𝐖𝐍 - 𝐁𝐎𝐓★';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -40,11 +40,11 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ the shadow - 𝙱𝚘𝚝`;
-global.gt = '★the shadow - 𝙱𝚘𝚝★';
-global.mysticbot = '★the shadow - 𝙱𝚘𝚝★';
-global.md = 'https://github.com/Alexxuwush/theshadow-bot';
-global.mysticbot = 'https://github.com/Alexxuwush/theshadow-bot';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ the unknown - 𝙱𝚘𝚝`;
+global.gt = '★the unknown - 𝙱𝚘𝚝★';
+global.mysticbot = '★the unknown - 𝙱𝚘𝚝★';
+global.md = 'https://github.com/Alexxuwush/theunknown-bot';
+global.mysticbot = 'https://github.com/Alexxuwush/theunknown-bot';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
