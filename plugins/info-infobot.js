@@ -43,7 +43,7 @@ const handler = async (m, { conn, usedPrefix }) => {
 ╠➥ [👨‍🦯] 𝚅𝙴𝙻𝙾𝙲𝙸𝙳𝙰𝙳: 
 ╠  *${speed} ms* 
 ╠
-╠═〘 𝐓𝐇𝐄 𝐒𝐇𝐀𝐃𝐎𝐖 - 𝐁𝐎𝐓 〙 ═
+╠═〘 𝙏𝙃𝙀 𝙐𝙉𝙆𝙉𝙊𝙒𝙉 - 𝘽𝙊𝙏 〙 ═
 `.trim();
   const doc = [
     "pdf",
@@ -54,7 +54,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/Alexxuwush/theshadow-bot` },
+    document: { url: `https://github.com/Alexxuwush/theunknown-bot` },
     mimetype: `application/${document}`,
     fileName: `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
     fileLength: 99999999999999,
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/Alexxuwush/theshadow-bot",
+        mediaUrl: "https://github.com/Alexxuwush/theunknown-bot",
         mediaType: 2,
         previewType: "pdf",
         title: "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ",
