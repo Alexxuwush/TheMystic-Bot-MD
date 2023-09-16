@@ -5,7 +5,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 
 *—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 𝟷 𝙴𝚂 wa.me/18728176633*`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/Alexxuwush/theshadow-bot`},
+    'document': {url: `https://github.com/Alexxuwush/theunknown-bot`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
     'fileLength': 99999999999999,
@@ -14,7 +14,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/Alexxuwush/theshadow-bot',
+        'mediaUrl': 'https://github.com/Alexxuwush/theunknown-bot',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
