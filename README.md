@@ -127,4 +127,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/Alexxuwush"><img src="https://github.com/Alexxuwush.png" width="250" height="250" alt="BrunoSobrino"/></a>
   
-`Theshadow-bot - By Alexxuwush 
+`Theunknown-bot - By Alexxuwush 
