@@ -18,6 +18,7 @@
 
  > NO SPAMEAR COMANDOS
 
+
 ### `—◉ 💰 DONAR 💰`
 - AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
 
