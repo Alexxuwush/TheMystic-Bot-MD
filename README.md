@@ -27,13 +27,13 @@
 ### `—◉ 💕 PLUGINS 💕`
 - TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
 
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+### `—◉ ⚙️ 𝘼𝙅𝙐𝙎𝙏𝙀𝙎 ⚙️`
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Alexxuwush/theunknown-bot/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Alexxuwush/theunknown-bot/blob/master/config.js)
   
 ### `—◉ 💥 ACTIVAR EN KOYEB 💥`
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/BrunoSobrino/TheMystic-Bot-MD&branch=master&name=mysticbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Alexxuwush/theunknown-bot&branch=master&name=mysticbot)
   
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
@@ -41,7 +41,7 @@
   
 ### `—◉ 🔰 ACTIVAR EN RENDER 🔰`
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD) 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FAlexxuwush%2FTheunknown-bot) 
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
@@ -58,7 +58,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Alexxuwush/theshadow-bot.git && cd TheMystic-Bot-MD
+git clone https://github.com/Alexxuwush/theunknown-bot && cd Theunknown-bot 
 ```
 
 ```bash
